@@ -1,0 +1,23 @@
+assignment1/
+
+    keio2021aia_21711914_assignment1/
+
+        __init__.py
+
+        cats/
+            __init__.py
+            cat_data.py
+            cat_model.py
+            cat_trainer.py
+            
+        sonar/
+            __init__.py
+            sonar_data.py
+            sonar_model.py
+            sonar_trainer.py
+
+    results/
+        cat_model.pkl
+        sonar_model.pkl
+
+    run_script.py
